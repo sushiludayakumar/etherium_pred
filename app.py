@@ -10,3 +10,4 @@ ls1=np.append(ip1,ip2)
 op=t_mod.predict([ls1])
 if st.button("PREDICT"):
   st.title(op)
+   
